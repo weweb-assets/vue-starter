@@ -1,4 +1,4 @@
-# Vue start component
+# Vue starter component
 
 This is a simple component to start developing within weweb editor
 
