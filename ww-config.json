@@ -1,0 +1,14 @@
+{
+    "componentPath": "./src/wwObject.vue",
+    "options": {
+        "autoByContent": true
+    },
+    "editor": {
+        "label": {
+            "en": "My element"
+        },
+        "menuOptions": {},
+        "styleOptions": {},
+        "settingsOptions": {}
+    }
+}
