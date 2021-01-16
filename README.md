@@ -1,10 +1,10 @@
-# WW-BUTTON
+# Vue start component
 
-This is an element for Weweb, to display a button with a rich text editor.
+This is a simple component to start developing within weweb editor
 
 ## Installation
 
-To run locally, first install all dependencies with `yarn`
+To run locally, first install all dependencies with `yarn` or `npm`
 
 ## Start
 
